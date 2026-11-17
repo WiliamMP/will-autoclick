@@ -33,7 +33,7 @@
     "@vitejs/plugin-react": "^6.0.2",
     "shadcn": "^4.21.3",
     "tailwindcss": "^4.3.3",
-    "typescript": "~6.0.3",
+    "typescript": "~7.0.2",
     "vite": "^8.0.16"
   },
   "license": "MIT",
